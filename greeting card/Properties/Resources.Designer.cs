@@ -61,6 +61,16 @@ namespace greeting_card.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Iconsmind_Outline_Pisces {
+            get {
+                object obj = ResourceManager.GetObject("Iconsmind_Outline_Pisces", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap peices {

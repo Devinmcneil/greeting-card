@@ -85,5 +85,8 @@
   <ItemGroup>
     <None Include="Resources\pisces png.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iconsmind-Outline-Pisces.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
